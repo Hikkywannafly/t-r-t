@@ -4,7 +4,7 @@ const Home: FC = () => {
   return (
     <>
       <section>
-        <div className="flex  min-h-[calc(100vh-64px)] bg-base-200 w-full justify-center bg-slate-400 ">
+        <div className="flex  min-h-[calc(100vh-64px)] bg-base-200 w-full justify-center ">
           <div className="hero-content flex-col lg:flex-row">
             <img
               src="https://media.tenor.com/wCtfQZz2VqoAAAAM/konosuba-chomusuke.gif"

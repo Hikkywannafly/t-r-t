@@ -1,5 +1,5 @@
 import { FC } from "react";
-import { Route, Routes } from "react-router-dom";
+import { Route, Routes } from "react-router";
 import Layout from "@/components/Layout/Layout";
 import Home from "@/pages/Home/Page";
 import NoMatch from "@/pages/NoMatch/Page";
